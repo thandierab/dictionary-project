@@ -1,0 +1,13 @@
+.thandie-logo {
+  border: solid 5px;
+  border-radius: 3px;
+  color: purple;
+  padding: 10px;
+  display: inline-block;
+  text-align: center;
+  font-size: 20px;
+}
+
+.App-header {
+  text-align: center;
+}
