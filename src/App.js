@@ -11,6 +11,7 @@ export default function App() {
         </div>
         <main>
           <Dictionary />
+          <button class="btn btn-primary btn-lg">Large Button</button>
         </main>
       </header>
       <footer className="App-footer">
