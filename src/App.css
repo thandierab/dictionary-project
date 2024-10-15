@@ -1,12 +1,18 @@
-.thandie-logo {
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.dictionary-logo {
   border: solid 5px;
   border-radius: 3px;
-  color: purple;
+  color: #ff69b4;
   padding: 10px;
   display: inline-block;
   text-align: center;
   font-size: 20px;
   margin: 30px 0;
+  font-weight: bold;
 }
 
 .App-header {
@@ -19,6 +25,23 @@
   margin: 30px 0;
 }
 
-a {
+.logo-container {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+
+.books {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+footer a {
+  color: #ff69b4;
   text-decoration: none;
+}
+
+footer {
+  font-weight: bold;
 }

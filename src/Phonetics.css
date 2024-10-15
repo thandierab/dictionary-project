@@ -1,0 +1,16 @@
+.Phonetics a {
+  border: 1px solid #ddd;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.Phonetics {
+  height: 120px;
+}
+
+.Phonetics .text {
+  color: #ff69b4;
+  opacity: 0.6;
+  font-weight: bold;
+}
