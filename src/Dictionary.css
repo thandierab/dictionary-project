@@ -16,6 +16,7 @@
 .Dictionary .hint {
   font-size: 11px;
   margin-top: 5px;
+  text-align: start;
 }
 
 h1 {
